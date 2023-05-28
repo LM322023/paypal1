@@ -35,4 +35,3 @@ chidi:x:1005:1005::/home/chidi:/bin/bash
 oboso:x:1006:1006::/home/oboso:/bin/bash
 obim:x:1007:1007::/home/obim:/bin/bash
 jake:x:1008:1008::/home/jake:/bin/bash
-This is amazing
