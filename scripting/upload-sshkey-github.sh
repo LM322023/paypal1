@@ -1,7 +1,7 @@
 #!/bin/bash      
-#author		     : Simon Legah
+#author		     : Michael Tah
 #CopyRights      : Landmark Technologies
-#Contact         : +1 437 215 2483
+#Contact         : +1 240 413 4556
 echo "Enter your GitHub Personal Access Token:"
 read token
 #echo $token >token.txt
